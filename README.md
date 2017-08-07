@@ -4,8 +4,8 @@ A basic and beginning professional portfolio that was created with the Bootstrap
 
 ### Click on pics for link to page!!
 # About
-[![Alt text](images/about.png)](https://gabietaylor.github.io/Basic-Portfolio/index.html)
+[![Alt text](images/about.png)](https://gabietaylor.github.io/Bootstrap-Portfolio/index.html)
 # Portfolio
-[![Alt text](images/portfolio.png)](https://gabietaylor.github.io/Basic-Portfolio/portfolio.html)
+[![Alt text](images/portfolio.png)](https://gabietaylor.github.io/Bootstrap-Portfolio/portfolio.html)
 # Contact
-[![Alt text](images/contact.png)](https://gabietaylor.github.io/Basic-Portfolio/contact.html)
+[![Alt text](images/contact.png)](https://gabietaylor.github.io/Bootstrap-Portfolio/contact.html)
